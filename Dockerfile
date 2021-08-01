@@ -1,2 +1,2 @@
 FROM alpine
-COPY content .
+COPY content /opt/gallery
